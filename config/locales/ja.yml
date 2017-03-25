@@ -1,0 +1,14 @@
+ja:
+  activerecord:
+    models:
+      book: '書籍'
+    attributes:
+      book:
+        title: 'タイトル'
+    errors:
+      models:
+        book:
+          attributes:
+            title:
+              blank: 'が空欄です'
+              taken: 'が重複しています'
