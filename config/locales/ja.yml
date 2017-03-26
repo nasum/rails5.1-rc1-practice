@@ -2,9 +2,13 @@ ja:
   activerecord:
     models:
       book: '書籍'
+      review: 'レビュー'
     attributes:
       book:
         title: 'タイトル'
+      review:
+        title: 'タイトル'
+        content: '内容'
     errors:
       models:
         book:
