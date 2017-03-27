@@ -27,6 +27,9 @@ group :development, :test do
   gem 'pry-stack_explorer'
   gem 'better_errors'
   gem 'binding_of_caller'
+  gem 'rspec-rails'
+  gem 'faker'
+  gem "factory_girl_rails"
 end
 
 group :development do
